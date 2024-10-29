@@ -1,0 +1,29 @@
+/*
+h1 {
+    color: red;
+    background-color: yellow;
+    text-align:center;
+    border:10px black solid;
+
+    margin-bottom:100px;
+    padding-top:20px;
+    padding-bottom:20px;
+}
+h3{
+    color:aqua;
+    background-color: black;
+    text-align:right;
+}
+*/
+
+h1 {
+    color: red;
+}
+
+.title{
+    background-color:darkcyan;
+}
+#mr_T {
+    color:blueviolet;
+
+}
